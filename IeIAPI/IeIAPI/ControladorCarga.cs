@@ -39,8 +39,8 @@ namespace IeIAPI
 
 
                     int[] numeros = new int[4];
-                    numeros[0] = 50; // COdigo localidad
-                    numeros[1] = 50; // Buenardos
+                    numeros[0] = 60; // COdigo localidad
+                    numeros[1] = 60; // Buenardos
                     numeros[2] = 0; // Corregidos
                     Console.WriteLine("\n-------------------------------");
                     Console.WriteLine("Inicio de extraccion 1");

@@ -1,49 +1,3 @@
-# Etapa intermedia para instalar dependencias
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS install-dependencies
-WORKDIR /app
-
-RUN apt-get update && apt-get install -y \
-    wget \
-    unzip \
-    libgdiplus \
-    libxss1 \
-    libappindicator3-1 \
-    libasound2 \
-    libatk1.0-0 \
-    libatk-bridge2.0-0 \
-    libnss3 \
-    libgdk-pixbuf2.0-0 \
-    libgtk-3-0 \
-    libx11-xcb1 \
-    libxcb-dri3-0 \
-    fonts-liberation \
-    libgbm1 \
-    libpango-1.0-0 \
-    libpangocairo-1.0-0 \
-    libxcursor1 \
-    libxdamage1 \
-    libxi6 \
-    libxcomposite1 \
-    libxrandr2 \
-    libxss1 \
-    libxtst6 \
-    xdg-utils \
-    libfreetype6 \
-    libharfbuzz-icu0 \
-    libfontconfig1 \
-    libc6 \
-    libglib2.0-0 \
-    && rm -rf /var/lib/apt/lists/*
-
-# Download and install Chrome
-RUN apt-get update \
-    && apt-get install -y gnupg \
-    && wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | gpg --dearmor -o /usr/share/keyrings/google-chrome-archive-keyring.gpg \
-    && echo "signed-by /usr/share/keyrings/google-chrome-archive-keyring.gpg" > /etc/apt/trusted.gpg.d/google-chrome-archive-keyring.gpg \
-    && echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-chrome-archive-keyring.gpg] http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/google-chrome.list \
-    && apt-get update \
-    && apt-get install -y google-chrome-stable
-
 # Etapa de construcción
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
@@ -53,6 +7,22 @@ RUN dotnet restore
 
 COPY . .
 RUN dotnet build -c Release -o /app/build
+
+# Use ADD to copy CSV and XML files
+COPY ./CV.csv .
+COPY ./CAT.xml .
+
+# Etapa intermedia para instalar dependencias
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS install-dependencies
+WORKDIR /app
+
+# Instalar dependencias, por ejemplo, curl, gnupg, y libglib2.0-0
+RUN apt-get update && apt-get install -y curl gnupg libglib2.0-0
+
+# Descargar e instalar Google Chrome
+RUN curl -sSL https://dl.google.com/linux/linux_signing_key.pub | gpg --dearmor -o /usr/share/keyrings/google-chrome-archive-keyring.gpg
+RUN echo "deb [signed-by=/usr/share/keyrings/google-chrome-archive-keyring.gpg arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | tee /etc/apt/sources.list.d/google-chrome.list > /dev/null
+RUN apt-get update && apt-get install -y google-chrome-stable
 
 # Etapa de publicación
 FROM build AS publish
