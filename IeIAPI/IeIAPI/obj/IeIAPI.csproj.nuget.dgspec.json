@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\source\\repos\\IeiBACK\\IeIAPI\\IeIAPI\\IeIAPI.csproj": {}
+    "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\source\\repos\\IeiExtractorXML\\IeIAPI\\IeIAPI\\IeIAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\source\\repos\\IeiBACK\\IeIAPI\\IeIAPI\\IeIAPI.csproj": {
+    "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\source\\repos\\IeiExtractorXML\\IeIAPI\\IeIAPI\\IeIAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\source\\repos\\IeiBACK\\IeIAPI\\IeIAPI\\IeIAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\source\\repos\\IeiExtractorXML\\IeIAPI\\IeIAPI\\IeIAPI.csproj",
         "projectName": "IeIAPI",
-        "projectPath": "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\source\\repos\\IeiBACK\\IeIAPI\\IeIAPI\\IeIAPI.csproj",
+        "projectPath": "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\source\\repos\\IeiExtractorXML\\IeIAPI\\IeIAPI\\IeIAPI.csproj",
         "packagesPath": "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\source\\repos\\IeiBACK\\IeIAPI\\IeIAPI\\obj\\",
+        "outputPath": "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\source\\repos\\IeiExtractorXML\\IeIAPI\\IeIAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\AppData\\Roaming\\NuGet\\NuGet.Config",

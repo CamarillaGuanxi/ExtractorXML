@@ -163,35 +163,6 @@ namespace IeIAPI
 
                 string json = Extractor2XML.Extractor2(numeros, doc);
 
-
-                Console.WriteLine("data" + json);
-                try
-                {
-                    List<string> c_e = new List<string>();
-                    List<int> pr = new List<int>();
-                    List<int> loc = new List<int>();
-                    dynamic[] dataArray = JsonConvert.DeserializeObject<dynamic[]>(json);
-
-                    Console.WriteLine("Connection successful!");
-                    foreach (dynamic data in dataArray)
-                    {
-
-
-                        InsertIntoProvincia(connection, data);
-
-                        InsertIntoLocalidad(connection, data);
-
-                        InsertIntoCentroEducativo(connection, data);
-
-
-
-                    }
-                }
-                catch (SqlException ex)
-                {
-                    //Console.WriteLine("Error: " + ex.Message);
-                }
-
                 return Ok(json);
             }
         }
