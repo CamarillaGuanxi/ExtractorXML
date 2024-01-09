@@ -27,46 +27,46 @@ namespace IeIAPI
 
 
         [HttpGet]
-    [Route("CAT")]
-    public IActionResult ProcesarCATDatos()
-    {
-        try
+        [Route("CAT")]
+        public IActionResult ProcesarCATDatos()
         {
-            using (MySqlConnection connection = new MySqlConnection(connectionString))
+            try
             {
-                connection.Open();
+                using (MySqlConnection connection = new MySqlConnection(connectionString))
+                {
+                    connection.Open();
 
 
 
-                int[] numeros = new int[4];
-                numeros[0] = 50; // COdigo localidad
-                numeros[1] = 50; // Buenardos
-                numeros[2] = 0; // Corregidos
-                Console.WriteLine("\n-------------------------------");
-                Console.WriteLine("Inicio de extraccion 1");
-                string url = "https://raw.githubusercontent.com/CamarillaGuanxi/IEIback/main/IeIAPI/IeIAPI/CAT.xml";
+                    int[] numeros = new int[4];
+                    numeros[0] = 50; // COdigo localidad
+                    numeros[1] = 50; // Buenardos
+                    numeros[2] = 0; // Corregidos
+                    Console.WriteLine("\n-------------------------------");
+                    Console.WriteLine("Inicio de extraccion 1");
+                    string url = "https://raw.githubusercontent.com/CamarillaGuanxi/IEIback/main/IeIAPI/IeIAPI/CAT.xml";
 
-                XDocument doc = XDocument.Load(url);
+                    XDocument doc = XDocument.Load(url);
 
-                string json = Extractor2XML.Extractor2(numeros, doc);
+                    string json = Extractor2XML.Extractor2(numeros, doc);
 
-                return Ok(json);
+                    return Ok(json);
+                }
+            }
+            catch (Exception ex)
+            {
+                // Imprimir detalles de la excepción en la consola
+                Console.WriteLine($"Error en el método PostDatos: {ex.GetType().FullName}");
+                Console.WriteLine($"Mensaje de la excepción: {ex.Message}");
+                Console.WriteLine($"StackTrace: {ex.StackTrace}");
+
+                // Retornar un código de estado 500 con un mensaje de error genérico
+                return StatusCode(500, $"Internal Server Error: {ex.Message}");
             }
         }
-        catch (Exception ex)
-        {
-            // Imprimir detalles de la excepción en la consola
-            Console.WriteLine($"Error en el método PostDatos: {ex.GetType().FullName}");
-            Console.WriteLine($"Mensaje de la excepción: {ex.Message}");
-            Console.WriteLine($"StackTrace: {ex.StackTrace}");
 
-            // Retornar un código de estado 500 con un mensaje de error genérico
-            return StatusCode(500, $"Internal Server Error: {ex.Message}");
-        }
+
+
+
     }
-
-        
-
-      
-
 }
