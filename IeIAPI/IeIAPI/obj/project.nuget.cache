@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "AZSQgyNk0YIeUgDhJP8a51Vo6tc1EUZujTa+2GwvXPyKMzdReDAoMl0EeOUQSajv1oDoM2slI8vdvXoDu7hdNg==",
+  "dgSpecHash": "36PswrbktxF5O7CU4PsXar1omrvzy64RyuKOwb/YZSKs7cK1q/4rplqXhldSW6kS3DBv6fAsOakUGT9pBH2CTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\source\\repos\\IeiExtractorXML\\IeIAPI\\IeIAPI\\IeIAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
+    "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\.nuget\\packages\\chromium.chromedriver\\2.37.0\\chromium.chromedriver.2.37.0.nupkg.sha512",
     "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\Administrador.WIN-2O4P6U7CI32\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

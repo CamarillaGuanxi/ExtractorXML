@@ -15,6 +15,9 @@
           }
         }
       },
+      "Chromium.ChromeDriver/2.37.0": {
+        "type": "package"
+      },
       "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
         "type": "package",
         "dependencies": {
@@ -820,6 +823,21 @@
         "lib/netstandard2.0/BouncyCastle.Cryptography.dll",
         "lib/netstandard2.0/BouncyCastle.Cryptography.xml",
         "packageIcon.png"
+      ]
+    },
+    "Chromium.ChromeDriver/2.37.0": {
+      "sha512": "p/5WFR9H4RN4/oTC4z1TWXVjJ94N+Tp9F5PBE5LcmGf17uh5Xvt9UkjyEnUgRPjMG+zHyDmBVxR6Zi0/1Npkqg==",
+      "type": "package",
+      "path": "chromium.chromedriver/2.37.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "chromium.chromedriver.2.37.0.nupkg.sha512",
+        "chromium.chromedriver.nuspec",
+        "content/chromedriver.exe",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
       ]
     },
     "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
@@ -2774,6 +2792,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Chromium.ChromeDriver >= 2.37.0",
       "DotNetSeleniumExtras.WaitHelpers >= 3.11.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.19.4",
       "MySql.Data >= 8.2.0",
@@ -2783,6 +2802,9 @@
       "Selenium.WebDriver >= 4.16.2",
       "Selenium.WebDriver.ChromeDriver >= 120.0.6099.10900",
       "Swashbuckle.AspNetCore >= 6.5.0",
+      "Swashbuckle.AspNetCore.Swagger >= 6.5.0",
+      "Swashbuckle.AspNetCore.SwaggerGen >= 6.5.0",
+      "Swashbuckle.AspNetCore.SwaggerUI >= 6.5.0",
       "System.Data.SqlClient >= 4.8.5"
     ]
   },
@@ -2825,6 +2847,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Chromium.ChromeDriver": {
+            "target": "Package",
+            "version": "[2.37.0, )"
+          },
           "DotNetSeleniumExtras.WaitHelpers": {
             "target": "Package",
             "version": "[3.11.0, )"
@@ -2858,6 +2884,18 @@
             "version": "[120.0.6099.10900, )"
           },
           "Swashbuckle.AspNetCore": {
+            "target": "Package",
+            "version": "[6.5.0, )"
+          },
+          "Swashbuckle.AspNetCore.Swagger": {
+            "target": "Package",
+            "version": "[6.5.0, )"
+          },
+          "Swashbuckle.AspNetCore.SwaggerGen": {
+            "target": "Package",
+            "version": "[6.5.0, )"
+          },
+          "Swashbuckle.AspNetCore.SwaggerUI": {
             "target": "Package",
             "version": "[6.5.0, )"
           },

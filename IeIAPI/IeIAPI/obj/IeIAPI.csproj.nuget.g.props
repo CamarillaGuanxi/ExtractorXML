@@ -20,5 +20,6 @@
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">C:\Users\Administrador.WIN-2O4P6U7CI32\.nuget\packages\microsoft.extensions.apidescription.server\6.0.5</PkgMicrosoft_Extensions_ApiDescription_Server>
     <PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets Condition=" '$(PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets)' == '' ">C:\Users\Administrador.WIN-2O4P6U7CI32\.nuget\packages\microsoft.visualstudio.azure.containers.tools.targets\1.19.4</PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets>
+    <PkgChromium_ChromeDriver Condition=" '$(PkgChromium_ChromeDriver)' == '' ">C:\Users\Administrador.WIN-2O4P6U7CI32\.nuget\packages\chromium.chromedriver\2.37.0</PkgChromium_ChromeDriver>
   </PropertyGroup>
 </Project>
