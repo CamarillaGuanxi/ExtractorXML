@@ -150,7 +150,7 @@ namespace IeIAPI
                         string regimen = "Otros";
                         if (row.Element("nom_naturalesa")?.Value is string && row.Element("nom_naturalesa")?.Value != null)
                         {
-                            if (row.Element("nom_naturalesa")?.Value == "Public")
+                            if (row.Element("nom_naturalesa")?.Value == "Public" || row.Element("nom_naturalesa")?.Value == "Públic")
                             {
                                 regimen = "Publico";
                             }
