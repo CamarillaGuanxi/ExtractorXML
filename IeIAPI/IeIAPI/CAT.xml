@@ -1,12 +1,395 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<response>
-<row>
-<row _id="row-6d5f-nw7y_fait" _uuid="00000000-0000-0000-87B4-DF57B6522620" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-6d5f-nw7y_fait">
-<codi_centre>08031988</codi_centre>
-<denominaci_completa>Miquel Servet</denominaci_completa>
+<?xml ?>
+<response><row>
+<row _id="row-c8xf_ub3c.545h" _uuid="00000000-0000-0000-7F91-FF7615CB9646" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-c8xf_ub3c.545h">
+<codi_centre>08030686</codi_centre>
+<denominaci_completa>Escola Pau Casals</denominaci_completa>
+<nom_naturalesa>Públic</nom_naturalesa>
+<nom_titularitat>Departament d'Educació</nom_titularitat>
+<adre_a>c. Salvador Badia, 6-12</adre_a>
+<codi_postal>08299</codi_postal>
+<nom_comarca>Vallès Occidental</nom_comarca>
+<codi_comarca>40</codi_comarca>
+<codi_municipi_5_digits>08291</codi_municipi_5_digits>
+<codi_municipi_6_digits>082917</codi_municipi_6_digits>
+<nom_municipi>Vacarisses</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>409802.084</coordenades_utm_x>
+<coordenades_utm_y>4606631.765</coordenades_utm_y>
+<coordenades_geo_x>1.917539326</coordenades_geo_x>
+<coordenades_geo_y>41.606302739</coordenades_geo_y>
+<estudis>EINF2C EPRI</estudis>
+<georefer_ncia>POINT (1.917539326 41.606302739)</georefer_ncia>
+</row>
+<row _id="row-vah8-kzh9_66ns" _uuid="00000000-0000-0000-CDED-C944088E69C5" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-vah8-kzh9_66ns">
+<codi_centre>08002599</codi_centre>
+<denominaci_completa>Escola Eduard Marquina</denominaci_completa>
+<nom_naturalesa>Públic</nom_naturalesa>
+<nom_titularitat>Departament d'Educació</nom_titularitat>
+<adre_a>c. Jaume Huguet, 22</adre_a>
+<codi_postal>08019</codi_postal>
+<nom_comarca>Barcelonès</nom_comarca>
+<codi_comarca>13</codi_comarca>
+<codi_municipi_5_digits>08019</codi_municipi_5_digits>
+<codi_municipi_6_digits>080193</codi_municipi_6_digits>
+<nom_municipi>Barcelona</nom_municipi>
+<codi_districte_municipal>10</codi_districte_municipal>
+<nom_dm>Sant Martí</nom_dm>
+<coordenades_utm_x>434320.477</coordenades_utm_x>
+<coordenades_utm_y>4585503.417</coordenades_utm_y>
+<coordenades_geo_x>2.214056887</coordenades_geo_x>
+<coordenades_geo_y>41.418402456</coordenades_geo_y>
+<estudis>EINF2C EPRI</estudis>
+<georefer_ncia>POINT (2.214056887 41.418402456)</georefer_ncia>
+</row>
+<row _id="row-8k5a_ff8e~q5ap" _uuid="00000000-0000-0000-A9C3-BA908658AD5B" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-8k5a_ff8e~q5ap">
+<codi_centre>08061971</codi_centre>
+<denominaci_completa>CFA Berguedà</denominaci_completa>
+<nom_naturalesa>Públic</nom_naturalesa>
+<nom_titularitat>Departament d'Educació</nom_titularitat>
+<adre_a>Camí de Pedret, 2</adre_a>
+<codi_postal>08600</codi_postal>
+<nom_comarca>Berguedà</nom_comarca>
+<codi_comarca>14</codi_comarca>
+<codi_municipi_5_digits>08022</codi_municipi_5_digits>
+<codi_municipi_6_digits>080229</codi_municipi_6_digits>
+<nom_municipi>Berga</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>405535.707</coordenades_utm_x>
+<coordenades_utm_y>4661781.601</coordenades_utm_y>
+<coordenades_geo_x>1.857543227</coordenades_geo_x>
+<coordenades_geo_y>42.102440022</coordenades_geo_y>
+<estudis>ADULTS</estudis>
+<georefer_ncia>POINT (1.857543227 42.102440022)</georefer_ncia>
+</row>
+<row _id="row-2qms~udkt-dfve" _uuid="00000000-0000-0000-663B-3EA8790377C8" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-2qms~udkt-dfve">
+<codi_centre>08021508</codi_centre>
+<denominaci_completa>Lestonnac</denominaci_completa>
+<nom_naturalesa>Privat</nom_naturalesa>
+<nom_titularitat>Ordes i Congregacions Catòlics</nom_titularitat>
+<adre_a>c. Balmes, 23</adre_a>
+<codi_postal>08100</codi_postal>
+<nom_comarca>Vallès Oriental</nom_comarca>
+<codi_comarca>41</codi_comarca>
+<codi_municipi_5_digits>08124</codi_municipi_5_digits>
+<codi_municipi_6_digits>081249</codi_municipi_6_digits>
+<nom_municipi>Mollet del Vallès</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>434510.91</coordenades_utm_x>
+<coordenades_utm_y>4598697.285</coordenades_utm_y>
+<coordenades_geo_x>2.214902632</coordenades_geo_x>
+<coordenades_geo_y>41.537250461</coordenades_geo_y>
+<estudis>EINF2C EPRI ESO</estudis>
+<georefer_ncia>POINT (2.214902632 41.537250461)</georefer_ncia>
+</row>
+<row _id="row-2qms~udkt-dfve" _uuid="00000000-0000-0000-663B-3EA8790377C8" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-2qms~udkt-dfve">
+<codi_centre>08021508</codi_centre>
+<denominaci_completa>Lestonnac</denominaci_completa>
+<nom_naturalesa>Privat</nom_naturalesa>
+<nom_titularitat>Ordes i Congregacions Catòlics</nom_titularitat>
+<adre_a>c. Balmes, 23</adre_a>
+<codi_postal>08100</codi_postal>
+<nom_comarca>Vallès Oriental</nom_comarca>
+<codi_comarca>41</codi_comarca>
+<codi_municipi_5_digits>08124</codi_municipi_5_digits>
+<codi_municipi_6_digits>081249</codi_municipi_6_digits>
+<nom_municipi>Mollet del Vallès</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>434510.91</coordenades_utm_x>
+<coordenades_utm_y>4598697.285</coordenades_utm_y>
+<coordenades_geo_x>2.214902632</coordenades_geo_x>
+<coordenades_geo_y>41.537250461</coordenades_geo_y>
+<estudis>EINF2C EPRI ESO</estudis>
+<georefer_ncia>POINT (2.214902632 41.537250461)</georefer_ncia>
+</row>
+<row _id="row-itjj-6tjv_ucy9" _uuid="00000000-0000-0000-4C3F-F11E07017E23" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-itjj-6tjv_ucy9">
+<codi_centre>43004189</codi_centre>
+<denominaci_completa>Escola Sant Jaume</denominaci_completa>
+<nom_naturalesa>Públic</nom_naturalesa>
+<nom_titularitat>Departament d'Educació</nom_titularitat>
+<adre_a>av. de Mallorca, 56</adre_a>
+<codi_postal>43877</codi_postal>
+<nom_comarca>Montsià</nom_comarca>
+<codi_comarca>22</codi_comarca>
+<codi_municipi_5_digits>43902</codi_municipi_5_digits>
+<codi_municipi_6_digits>439023</codi_municipi_6_digits>
+<nom_municipi>Sant Jaume d'Enveja</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>307085.897</coordenades_utm_x>
+<coordenades_utm_y>4508074.147</coordenades_utm_y>
+<coordenades_geo_x>0.716555654</coordenades_geo_x>
+<coordenades_geo_y>40.70100465</coordenades_geo_y>
+<estudis>EINF2C EPRI</estudis>
+<georefer_ncia>POINT (0.716555654 40.70100465)</georefer_ncia>
+</row>
+<row _id="row-kypu.v2tq~ctiu" _uuid="00000000-0000-0000-3140-57B589ADB294" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-kypu.v2tq~ctiu">
+<codi_centre>43010414</codi_centre>
+<denominaci_completa>Institut Coster de la Torre</denominaci_completa>
+<nom_naturalesa>Públic</nom_naturalesa>
+<nom_titularitat>Departament d'Educació</nom_titularitat>
+<adre_a>av. de la Diputació, s/n</adre_a>
+<codi_postal>43717</codi_postal>
+<nom_comarca>Baix Penedès</nom_comarca>
+<codi_comarca>12</codi_comarca>
+<codi_municipi_5_digits>43028</codi_municipi_5_digits>
+<codi_municipi_6_digits>430287</codi_municipi_6_digits>
+<nom_municipi>La Bisbal del Penedès</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>373589.148</coordenades_utm_x>
+<coordenades_utm_y>4570504.901</coordenades_utm_y>
+<coordenades_geo_x>1.490632713</coordenades_geo_x>
+<coordenades_geo_y>41.276089505</coordenades_geo_y>
+<estudis>ESO BATX</estudis>
+<georefer_ncia>POINT (1.490632713 41.276089505)</georefer_ncia>
+</row>
+<row _id="row-4ign.j955~ys65" _uuid="00000000-0000-0000-4708-0716D7B5F337" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-4ign.j955~ys65">
+<codi_centre>08040400</codi_centre>
+<denominaci_completa>Escola Amadeu Vives</denominaci_completa>
+<nom_naturalesa></nom_naturalesa>
+<nom_titularitat>Departament d'Educació</nom_titularitat>
+<adre_a>c. Fra Luis de León, 152</adre_a>
+<codi_postal>08203</codi_postal>
+<nom_comarca>Vallès Occidental</nom_comarca>
+<codi_comarca>40</codi_comarca>
+<codi_municipi_5_digits>08187</codi_municipi_5_digits>
+<codi_municipi_6_digits>081878</codi_municipi_6_digits>
+<nom_municipi>Sabadell</nom_municipi>
+<codi_districte_municipal>01</codi_districte_municipal>
+<nom_dm>Sabadell 1</nom_dm>
+<coordenades_utm_x>426247.036</coordenades_utm_x>
+<coordenades_utm_y>4598488.111</coordenades_utm_y>
+<coordenades_geo_x>2.115869889</coordenades_geo_x>
+<coordenades_geo_y>41.534647591</coordenades_geo_y>
+<estudis>EINF2C EPRI</estudis>
+<georefer_ncia>POINT (2.115869889 41.534647591)</georefer_ncia>
+</row>
+<row _id="row-pw5y-yj2s-nkf8" _uuid="00000000-0000-0000-3E57-FEEE4D8FBFAF" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-pw5y-yj2s-nkf8">
+<codi_centre>08045689</codi_centre>
+<denominaci_completa>Institut Voltrera</denominaci_completa>
+<nom_naturalesa>Públic</nom_naturalesa>
+<nom_titularitat>Departament d'Educació</nom_titularitat>
+<adre_a>pg. de l'Estació, 18</adre_a>
+<codi_postal>08630</codi_postal>
+<nom_comarca>Baix Llobregat</nom_comarca>
+<codi_comarca>11</codi_comarca>
+<codi_municipi_5_digits>08001</codi_municipi_5_digits>
+<codi_municipi_6_digits>080018</codi_municipi_6_digits>
+<nom_municipi>Abrera</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>408385.533</coordenades_utm_x>
+<coordenades_utm_y>4597108.495</coordenades_utm_y>
+<coordenades_geo_x>1.901995354</coordenades_geo_x>
+<coordenades_geo_y>41.520377764</coordenades_geo_y>
+<estudis>ESO BATX</estudis>
+<georefer_ncia>POINT (1.901995354 41.520377764)</georefer_ncia>
+</row>
+<row _id="row-jfc9-e4i6_9i8e" _uuid="00000000-0000-0000-3E46-15131F11F221" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-jfc9-e4i6_9i8e">
+<codi_centre>17010037</codi_centre>
+<denominaci_completa>Institut El Bruc</denominaci_completa>
+<nom_naturalesa>Públic</nom_naturalesa>
+<nom_titularitat>Departament d'Educació</nom_titularitat>
+<adre_a>c. dels Prats, 2</adre_a>
+<codi_postal>17404</codi_postal>
+<nom_comarca>Selva</nom_comarca>
+<codi_comarca>34</codi_comarca>
+<codi_municipi_5_digits>17146</codi_municipi_5_digits>
+<codi_municipi_6_digits>171463</codi_municipi_6_digits>
+<nom_municipi>Riells i Viabrea</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>461852.422</coordenades_utm_x>
+<coordenades_utm_y>4619600.042</coordenades_utm_y>
+<coordenades_geo_x>2.541332211</coordenades_geo_x>
+<coordenades_geo_y>41.727291307</coordenades_geo_y>
+<estudis>ESO</estudis>
+<georefer_ncia>POINT (2.541332211 41.727291307)</georefer_ncia>
+</row>
+<row _id="row-curt~9ysf_zah6" _uuid="00000000-0000-0000-EF23-A44A0DE69726" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-curt~9ysf_zah6">
+<codi_centre>08031757</codi_centre>
+<denominaci_completa>Institut Forat del Vent</denominaci_completa>
+<nom_naturalesa>Públic</nom_naturalesa>
+<nom_titularitat>Departament d'Educació</nom_titularitat>
+<adre_a>Pizarro, 35</adre_a>
+<codi_postal>08290</codi_postal>
+<nom_comarca>Vallès Occidental</nom_comarca>
+<codi_comarca>40</codi_comarca>
+<codi_municipi_5_digits>08266</codi_municipi_5_digits>
+<codi_municipi_6_digits>082665</codi_municipi_6_digits>
+<nom_municipi>Cerdanyola del Vallès</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>428858.397</coordenades_utm_x>
+<coordenades_utm_y>4593121.168</coordenades_utm_y>
+<coordenades_geo_x>2.147804959</coordenades_geo_x>
+<coordenades_geo_y>41.486546948</coordenades_geo_y>
+<estudis>ESO BATX</estudis>
+<georefer_ncia>POINT (2.147804959 41.486546948)</georefer_ncia>
+</row>
+<row _id="row-2f4d_n37i_c7u7" _uuid="00000000-0000-0000-A263-4F0EA6DCC847" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-2f4d_n37i_c7u7">
+<codi_centre>08075268</codi_centre>
+<denominaci_completa>Escola La Mirada</denominaci_completa>
+<nom_naturalesa>Públic</nom_naturalesa>
+<nom_titularitat>Departament d'Educació</nom_titularitat>
+<adre_a>av. de la Clota, 3</adre_a>
+<codi_postal>08173</codi_postal>
+<nom_comarca>Vallès Occidental</nom_comarca>
+<codi_comarca>40</codi_comarca>
+<codi_municipi_5_digits>08205</codi_municipi_5_digits>
+<codi_municipi_6_digits>082055</codi_municipi_6_digits>
+<nom_municipi>Sant Cugat del Vallès</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>422297.4</coordenades_utm_x>
+<coordenades_utm_y>4592591.008</coordenades_utm_y>
+<coordenades_geo_x>2.069289596</coordenades_geo_x>
+<coordenades_geo_y>41.481163065</coordenades_geo_y>
+<estudis>EINF2C EPRI</estudis>
+<georefer_ncia>POINT (2.069289596 41.481163065)</georefer_ncia>
+</row>
+<row _id="row-fcpr.4wy7~j6he" _uuid="00000000-0000-0000-DB84-B9E4DB82AC24" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-fcpr.4wy7~j6he">
+<codi_centre>08011394</codi_centre>
+<denominaci_completa>Sant Joan Bosco</denominaci_completa>
+<nom_naturalesa>Privat</nom_naturalesa>
+<nom_titularitat>Ordes i Congregacions Catòlics</nom_titularitat>
+<adre_a>pg. Vall d'Hebron, 258-260</adre_a>
+<codi_postal>08035</codi_postal>
+<nom_comarca>Barcelonès</nom_comarca>
+<codi_comarca>13</codi_comarca>
+<codi_municipi_5_digits>08019</codi_municipi_5_digits>
+<codi_municipi_6_digits>080193</codi_municipi_6_digits>
+<nom_municipi>Barcelona</nom_municipi>
+<codi_districte_municipal>07</codi_districte_municipal>
+<nom_dm>Horta - Guinardó</nom_dm>
+<coordenades_utm_x>428910.69</coordenades_utm_x>
+<coordenades_utm_y>4587522.663</coordenades_utm_y>
+<coordenades_geo_x>2.149090729</coordenades_geo_x>
+<coordenades_geo_y>41.436128542</coordenades_geo_y>
+<estudis>EINF2C EPRI ESO BATX AA01 AA03</estudis>
+<georefer_ncia>POINT (2.149090729 41.436128542)</georefer_ncia>
+</row>
+<row _id="row-ypkm_k3pb_99rf" _uuid="00000000-0000-0000-FA88-9A61B70C2417" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-ypkm_k3pb_99rf">
+<codi_centre>25007001</codi_centre>
+<denominaci_completa>Llar d'infants Municipal</denominaci_completa>
+<nom_naturalesa>Públic</nom_naturalesa>
+<nom_titularitat>Corporacions Locals</nom_titularitat>
+<adre_a>c. Travy, 16</adre_a>
+<codi_postal>25720</codi_postal>
+<nom_comarca>Cerdanya</nom_comarca>
+<codi_comarca>15</codi_comarca>
+<codi_municipi_5_digits>25051</codi_municipi_5_digits>
+<codi_municipi_6_digits>250518</codi_municipi_6_digits>
+<nom_municipi>Bellver de Cerdanya</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>399278.878</coordenades_utm_x>
+<coordenades_utm_y>4691308.66</coordenades_utm_y>
+<coordenades_geo_x>1.776764657</coordenades_geo_x>
+<coordenades_geo_y>42.367530808</coordenades_geo_y>
+<estudis>EINF1C</estudis>
+<georefer_ncia>POINT (1.776764657 42.367530808)</georefer_ncia>
+</row>
+<row _id="row-9m7b~vq8q~iak6" _uuid="00000000-0000-0000-7BA1-3C2D2CF6CF59" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-9m7b~vq8q~iak6">
+<codi_centre>08025459</codi_centre>
+<denominaci_completa>Vedruna Sant Boi</denominaci_completa>
+<nom_naturalesa>Privat</nom_naturalesa>
+<nom_titularitat>Fundacions</nom_titularitat>
+<adre_a>c. Lluís Castells, 20</adre_a>
+<codi_postal>08830</codi_postal>
+<nom_comarca>Baix Llobregat</nom_comarca>
+<codi_comarca>11</codi_comarca>
+<codi_municipi_5_digits>08200</codi_municipi_5_digits>
+<codi_municipi_6_digits>082009</codi_municipi_6_digits>
+<nom_municipi>Sant Boi de Llobregat</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>419509.899</coordenades_utm_x>
+<coordenades_utm_y>4577663.824</coordenades_utm_y>
+<coordenades_geo_x>2.037891694</coordenades_geo_x>
+<coordenades_geo_y>41.346449165</coordenades_geo_y>
+<estudis>EINF2C EPRI</estudis>
+<georefer_ncia>POINT (2.037891694 41.346449165)</georefer_ncia>
+</row>
+<row _id="row-zbn9~m4vk_jpm2" _uuid="00000000-0000-0000-808D-B6103A09C2CE" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-zbn9~m4vk_jpm2">
+<codi_centre>25004413</codi_centre>
+<denominaci_completa>Escola de Sunyer - ZER L'Eral</denominaci_completa>
+<nom_naturalesa>Públic</nom_naturalesa>
+<nom_titularitat>Departament d'Educació</nom_titularitat>
+<adre_a>c. de les Escoles, s/n</adre_a>
+<codi_postal>25174</codi_postal>
+<nom_comarca>Segrià</nom_comarca>
+<codi_comarca>33</codi_comarca>
+<codi_municipi_5_digits>25212</codi_municipi_5_digits>
+<codi_municipi_6_digits>252120</codi_municipi_6_digits>
+<nom_municipi>Sunyer</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>299137.89</coordenades_utm_x>
+<coordenades_utm_y>4599537.001</coordenades_utm_y>
+<coordenades_geo_x>0.592654164</coordenades_geo_x>
+<coordenades_geo_y>41.522289782</coordenades_geo_y>
+<estudis>EINF2C EPRI</estudis>
+<georefer_ncia>POINT (0.592654164 41.522289782)</georefer_ncia>
+</row>
+<row _id="row-fshm.thmn-59yh" _uuid="00000000-0000-0000-C5BB-73A3496B7419" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-fshm.thmn-59yh">
+<codi_centre>17008912</codi_centre>
+<denominaci_completa>Pauta, Centre Psicopedagògic</denominaci_completa>
+<nom_naturalesa>Privat</nom_naturalesa>
+<nom_titularitat>Persones Físiques</nom_titularitat>
+<adre_a>c. Bernat Boades, 70, baixos</adre_a>
+<codi_postal>17005</codi_postal>
+<nom_comarca>Gironès</nom_comarca>
+<codi_comarca>20</codi_comarca>
+<codi_municipi_5_digits>17079</codi_municipi_5_digits>
+<codi_municipi_6_digits>170792</codi_municipi_6_digits>
+<nom_municipi>Girona</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>484593.495</coordenades_utm_x>
+<coordenades_utm_y>4647693.586</coordenades_utm_y>
+<coordenades_geo_x>2.814025766</coordenades_geo_x>
+<coordenades_geo_y>41.981091697</coordenades_geo_y>
+<estudis>ADULTS</estudis>
+<georefer_ncia>POINT (2.814025766 41.981091697)</georefer_ncia>
+</row>
+<row _id="row-dz3w~8qt9-a3f4" _uuid="00000000-0000-0000-6764-4081CEED2899" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-dz3w~8qt9-a3f4">
+<codi_centre>08054630</codi_centre>
+<denominaci_completa>Xenius</denominaci_completa>
+<nom_naturalesa>Privat</nom_naturalesa>
+<nom_titularitat>Persones Físiques</nom_titularitat>
+<adre_a>c. Muntaner, 476</adre_a>
+<codi_postal>08006</codi_postal>
+<nom_comarca>Barcelonès</nom_comarca>
+<codi_comarca>13</codi_comarca>
+<codi_municipi_5_digits>08019</codi_municipi_5_digits>
+<codi_municipi_6_digits>080193</codi_municipi_6_digits>
+<nom_municipi>Barcelona</nom_municipi>
+<codi_districte_municipal>05</codi_districte_municipal>
+<nom_dm>Sarrià - Sant Gervasi</nom_dm>
+<coordenades_utm_x>427983.342</coordenades_utm_x>
+<coordenades_utm_y>4583805.853</coordenades_utm_y>
+<coordenades_geo_x>2.138434523</coordenades_geo_x>
+<coordenades_geo_y>41.402570242</coordenades_geo_y>
+<estudis>EINF1C</estudis>
+<georefer_ncia>POINT (2.138434523 41.402570242)</georefer_ncia>
+</row>
+<row _id="row-4qdk~gwgr-en93" _uuid="00000000-0000-0000-AD0A-B01B1C4F7746" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-4qdk~gwgr-en93">
+<codi_centre>08029088</codi_centre>
+<denominaci_completa>Escola Miquel Utrillo</denominaci_completa>
+<nom_naturalesa>Públic</nom_naturalesa>
+<nom_titularitat>Departament d'Educació</nom_titularitat>
+<adre_a>Camí de la Fita, s/n</adre_a>
+<codi_postal>08870</codi_postal>
+<nom_comarca>Garraf</nom_comarca>
+<codi_comarca>17</codi_comarca>
+<codi_municipi_5_digits>08270</codi_municipi_5_digits>
+<codi_municipi_6_digits>082704</codi_municipi_6_digits>
+<nom_municipi>Sitges</nom_municipi>
+<codi_districte_municipal>00</codi_districte_municipal>
+<coordenades_utm_x>400337.396</coordenades_utm_x>
+<coordenades_utm_y>4566385.464</coordenades_utm_y>
+<coordenades_geo_x>1.810609899</coordenades_geo_x>
+<coordenades_geo_y>41.242734456</coordenades_geo_y>
+<estudis>EINF2C EPRI</estudis>
+<georefer_ncia>POINT (1.810609899 41.242734456)</georefer_ncia>
+</row>
+<row _id="row-ajpp_rsdq.cs28" _uuid="00000000-0000-0000-E52C-E3A81A62E03E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-ajpp_rsdq.cs28">
+<codi_centre>08018303</codi_centre>
+<denominaci_completa>Alpes</denominaci_completa>
 <nom_naturalesa>Privat</nom_naturalesa>
 <nom_titularitat>Societats Mercantils</nom_titularitat>
-<adre_a>c. de Rodés, 6</adre_a>
+<adre_a>Riera de la Creu, 85</adre_a>
 <codi_postal>08901</codi_postal>
 <nom_comarca>Barcelonès</nom_comarca>
 <codi_comarca>13</codi_comarca>
@@ -15,255 +398,31 @@
 <nom_municipi>L'Hospitalet de Llobregat</nom_municipi>
 <codi_districte_municipal>01</codi_districte_municipal>
 <nom_dm>Centre - Sant Josep - Santfeliu</nom_dm>
-<coordenades_utm_x>425447.231</coordenades_utm_x>
-<coordenades_utm_y>4579183.393</coordenades_utm_y>
-<coordenades_geo_x></coordenades_geo_x>
-<coordenades_geo_y>41.360706668</coordenades_geo_y>
-<estudis>CFPM CFPS</estudis>
-<georefer_ncia>POINT (2.108666122 41.360706668)</georefer_ncia>
+<coordenades_utm_x>424586.117</coordenades_utm_x>
+<coordenades_utm_y>4579437.485</coordenades_utm_y>
+<coordenades_geo_x>2.098340484</coordenades_geo_x>
+<coordenades_geo_y>41.362914967</coordenades_geo_y>
+<estudis>EINF1C EINF2C EPRI ESO</estudis>
+<georefer_ncia>POINT (2.098340484 41.362914967)</georefer_ncia>
 </row>
-<row _id="row-5894~88tr.cez9" _uuid="00000000-0000-0000-850F-FB3ED5C221FA" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-5894~88tr.cez9">
-<codi_centre>08046669</codi_centre>
-<denominaci_completa>Institut Ribot i Serra</denominaci_completa>
-<nom_naturalesa>Públic</nom_naturalesa>
-<nom_titularitat>Departament d'Educació</nom_titularitat>
-<adre_a>c. Concha Espina, 33</adre_a>
-<codi_postal>08204</codi_postal>
-<nom_comarca>Vallès Occidental</nom_comarca>
-<codi_comarca>40</codi_comarca>
-<codi_municipi_5_digits>08187</codi_municipi_5_digits>
-<codi_municipi_6_digits>081878</codi_municipi_6_digits>
-<nom_municipi>Sabadell</nom_municipi>
-<codi_districte_municipal>06</codi_districte_municipal>
-<nom_dm>Sabadell 6</nom_dm>
-<coordenades_utm_x>425908.19</coordenades_utm_x>
-<coordenades_utm_y>4597535.312</coordenades_utm_y>
-<coordenades_geo_x>2.111925734</coordenades_geo_x>
-<coordenades_geo_y>41.526035077</coordenades_geo_y>
-<estudis>ESO BATX AA01 CFPM AA03 CFPS PFI</estudis>
-<georefer_ncia>POINT (2.111925734 41.526035077)</georefer_ncia>
-</row>
-<row _id="row-ghna-3ui8.amyf" _uuid="00000000-0000-0000-CC54-1F526156927F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-ghna-3ui8.amyf">
-<codi_centre>08002538</codi_centre>
-<denominaci_completa>Escola Víctor Català</denominaci_completa>
-<nom_naturalesa>Públic</nom_naturalesa>
-<nom_titularitat>Departament d'Educació</nom_titularitat>
-<adre_a>c. Font d'en Canyelles, 35</adre_a>
-<codi_postal>08016</codi_postal>
-<nom_comarca>Barcelonès</nom_comarca>
-<codi_comarca>13</codi_comarca>
-<codi_municipi_5_digits>08019</codi_municipi_5_digits>
-<codi_municipi_6_digits>080193</codi_municipi_6_digits>
-<nom_municipi>Barcelona</nom_municipi>
-<codi_districte_municipal>08</codi_districte_municipal>
-<nom_dm>Nou Barris</nom_dm>
-<coordenades_utm_x>426533.061</coordenades_utm_x>
-<coordenades_utm_y>4583149.462</coordenades_utm_y>
-<coordenades_geo_x>2.12116579</coordenades_geo_x>
-<coordenades_geo_y>41.39652721</coordenades_geo_y>
-<estudis>EINF2C EPRI</estudis>
-<georefer_ncia>POINT (2.12116579 41.39652721)</georefer_ncia>
-</row>
-<row _id="row-dppk.y87h~shdc" _uuid="00000000-0000-0000-899B-9D8821B3FD82" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-dppk.y87h~shdc">
-<codi_centre>43010608</codi_centre>
-<denominaci_completa>Institut Serra de Miramar</denominaci_completa>
-<nom_naturalesa>Públic</nom_naturalesa>
-<nom_titularitat>Departament d'Educació</nom_titularitat>
-<adre_a>pl. del Quarter, s/n</adre_a>
-<codi_postal>43800</codi_postal>
-<nom_comarca>Alt Camp</nom_comarca>
-<codi_comarca>01</codi_comarca>
-<codi_municipi_5_digits>43161</codi_municipi_5_digits>
-<codi_municipi_6_digits>431613</codi_municipi_6_digits>
-<nom_municipi>Valls</nom_municipi>
-<codi_districte_municipal>00</codi_districte_municipal>
-<coordenades_utm_x>353652.805</coordenades_utm_x>
-<coordenades_utm_y>4572049.911</coordenades_utm_y>
-<coordenades_geo_x>1.25231703</coordenades_geo_x>
-<coordenades_geo_y>41.286633854</coordenades_geo_y>
-<estudis>ESO BATX</estudis>
-<georefer_ncia>POINT (1.25231703 41.286633854)</georefer_ncia>
-</row>
-
-<row _id="row-cr6r-u9wa_ifyg" _uuid="00000000-0000-0000-9ACD-339418C2C618" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-cr6r-u9wa_ifyg">
-<codi_centre>17002405</codi_centre>
-<denominaci_completa>Petit Plançó</denominaci_completa>
-<nom_naturalesa>Privat</nom_naturalesa>
-<nom_titularitat>Cooperatives</nom_titularitat>
-<adre_a>c. Joaquim Vayreda, 23</adre_a>
-<codi_postal>17800</codi_postal>
-<nom_comarca>Garrotxa</nom_comarca>
-<codi_comarca>19</codi_comarca>
-<codi_municipi_5_digits>17114</codi_municipi_5_digits>
-<codi_municipi_6_digits>171143</codi_municipi_6_digits>
-<nom_municipi>Olot</nom_municipi>
-<codi_districte_municipal>00</codi_districte_municipal>
-<coordenades_utm_x>457798.328</coordenades_utm_x>
-<coordenades_utm_y>4669773.896</coordenades_utm_y>
-<coordenades_geo_x>2.488992693</coordenades_geo_x>
-<coordenades_geo_y>42.178971465</coordenades_geo_y>
-<estudis>EINF2C EPRI ESO</estudis>
-<georefer_ncia>POINT (2.488992693 42.178971465)</georefer_ncia>
-</row>
-<row _id="row-kwsx.389r_bqt5" _uuid="00000000-0000-0000-5FA4-991B940CB164" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-kwsx.389r_bqt5">
-<codi_centre>43003768</codi_centre>
-<denominaci_completa>Escola Els Àngels</denominaci_completa>
-<nom_naturalesa>Públic</nom_naturalesa>
-<nom_titularitat>Departament d'Educació</nom_titularitat>
-<adre_a>c. Menorca, 24</adre_a>
-<codi_postal>43006</codi_postal>
-<nom_comarca>Tarragonès</nom_comarca>
-<codi_comarca>36</codi_comarca>
-<codi_municipi_5_digits>43148</codi_municipi_5_digits>
-<codi_municipi_6_digits>431482</codi_municipi_6_digits>
-<nom_municipi>Tarragona</nom_municipi>
-<codi_districte_municipal>00</codi_districte_municipal>
-<coordenades_utm_x>349915.314</coordenades_utm_x>
-<coordenades_utm_y>4553806.094</coordenades_utm_y>
-<coordenades_geo_x>1.212182025</coordenades_geo_x>
-<coordenades_geo_y>41.121689261</coordenades_geo_y>
-<estudis>EINF2C EPRI</estudis>
-<georefer_ncia>POINT (1.212182025 41.121689261)</georefer_ncia>
-</row>
-<row _id="row-yspd~qytu-dxnc" _uuid="00000000-0000-0000-CDD1-9900B7937AE2" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-yspd~qytu-dxnc">
-<codi_centre>17008444</codi_centre>
-<denominaci_completa>Escola Parc de les Aigües</denominaci_completa>
-<nom_naturalesa>Públic</nom_naturalesa>
-<nom_titularitat>Departament d'Educació</nom_titularitat>
-<adre_a>c. Sant Pere de Rodes, 2</adre_a>
-<codi_postal>17600</codi_postal>
-<nom_comarca>Alt Empordà</nom_comarca>
-<codi_comarca>02</codi_comarca>
-<codi_municipi_5_digits>17066</codi_municipi_5_digits>
-<codi_municipi_6_digits>170669</codi_municipi_6_digits>
-<nom_municipi>Figueres</nom_municipi>
-<codi_districte_municipal>00</codi_districte_municipal>
-<coordenades_utm_x>496879.646</coordenades_utm_x>
-<coordenades_utm_y>4679916.22</coordenades_utm_y>
-<coordenades_geo_x>2.962161339</coordenades_geo_x>
-<coordenades_geo_y>42.271448238</coordenades_geo_y>
-<estudis>EINF2C EPRI</estudis>
-<georefer_ncia>POINT (2.962161339 42.271448238)</georefer_ncia>
-</row>
-<row _id="row-92qi_vka2~ws3h" _uuid="00000000-0000-0000-5478-20A4521D4F22" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-92qi_vka2~ws3h">
-<codi_centre>25004188</codi_centre>
-<denominaci_completa>Institut Joan Brudieu</denominaci_completa>
-<nom_naturalesa>Públic</nom_naturalesa>
-<nom_titularitat>Departament d'Educació</nom_titularitat>
-<adre_a>c. Dr. Iglesias Navarri, 27</adre_a>
-<codi_postal>25700</codi_postal>
-<nom_comarca>Alt Urgell</nom_comarca>
-<codi_comarca>04</codi_comarca>
-<codi_municipi_5_digits>25203</codi_municipi_5_digits>
-<codi_municipi_6_digits>252038</codi_municipi_6_digits>
-<nom_municipi>La Seu d'Urgell</nom_municipi>
-<codi_districte_municipal>00</codi_districte_municipal>
-<coordenades_utm_x>372978.8</coordenades_utm_x>
-<coordenades_utm_y>4690163.061</coordenades_utm_y>
-<coordenades_geo_x>1.457709157</coordenades_geo_x>
-<coordenades_geo_y>42.353365177</coordenades_geo_y>
-<estudis>ESO BATX AA01 CFPM AA03 CFPS IFE</estudis>
-<georefer_ncia>POINT (1.457709157 42.353365177)</georefer_ncia>
-</row>
-<row _id="row-8xph.irxa-fjkx" _uuid="00000000-0000-0000-CFFC-72877F913152" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-8xph.irxa-fjkx">
-<codi_centre>25008637</codi_centre>
-<denominaci_completa>Llar d'infants Municipal d'Alfarràs Les Llavoretes</denominaci_completa>
+<row _id="row-295e_rvfy-sjxg" _uuid="00000000-0000-0000-2180-27DE6AD97300" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-295e_rvfy-sjxg">
+<codi_centre>43012277</codi_centre>
+<denominaci_completa>Escola Bressol Vent de Migjorn</denominaci_completa>
 <nom_naturalesa>Públic</nom_naturalesa>
 <nom_titularitat>Corporacions Locals</nom_titularitat>
-<adre_a>c. Sisquella, 4</adre_a>
-<codi_postal>25120</codi_postal>
-<nom_comarca>Segrià</nom_comarca>
-<codi_comarca>33</codi_comarca>
-<codi_municipi_5_digits>25013</codi_municipi_5_digits>
-<codi_municipi_6_digits>250138</codi_municipi_6_digits>
-<nom_municipi>Alfarràs</nom_municipi>
+<adre_a>c. dels Ocells, s/n (Urban.Les Clotes)</adre_a>
+<codi_postal>43700</codi_postal>
+<nom_comarca>Baix Penedès</nom_comarca>
+<codi_comarca>12</codi_comarca>
+<codi_municipi_5_digits>43163</codi_municipi_5_digits>
+<codi_municipi_6_digits>431634</codi_municipi_6_digits>
+<nom_municipi>El Vendrell</nom_municipi>
 <codi_districte_municipal>00</codi_districte_municipal>
-<coordenades_utm_x>298598.313</coordenades_utm_x>
-<coordenades_utm_y>4633785.834</coordenades_utm_y>
-<coordenades_geo_x>0.57464247</coordenades_geo_x>
-<coordenades_geo_y>41.830363974</coordenades_geo_y>
+<coordenades_utm_x>376132.428</coordenades_utm_x>
+<coordenades_utm_y>4560678.763</coordenades_utm_y>
+<coordenades_geo_x></coordenades_geo_x>
+<coordenades_geo_y>41.188000478</coordenades_geo_y>
 <estudis>EINF1C</estudis>
-<georefer_ncia>POINT (0.57464247 41.830363974)</georefer_ncia>
+<georefer_ncia>POINT (1.52298344 41.188000478)</georefer_ncia>
 </row>
-<row _id="row-iwz6-bg39~xzuy" _uuid="00000000-0000-0000-5F4B-14C4958FA2B8" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-iwz6-bg39~xzuy">
-<codi_centre>08059780</codi_centre>
-<denominaci_completa>Escola Bellavista-Joan Camps i Giró</denominaci_completa>
-<nom_naturalesa>Públic</nom_naturalesa>
-<nom_titularitat>Departament d'Educació</nom_titularitat>
-<adre_a>c. Astúries, s/n</adre_a>
-<codi_postal>08520</codi_postal>
-<nom_comarca>Vallès Oriental</nom_comarca>
-<codi_comarca>41</codi_comarca>
-<codi_municipi_5_digits>08086</codi_municipi_5_digits>
-<codi_municipi_6_digits>080863</codi_municipi_6_digits>
-<nom_municipi>Les Franqueses del Vallès</nom_municipi>
-<codi_districte_municipal>00</codi_districte_municipal>
-<coordenades_utm_x>441705.632</coordenades_utm_x>
-<coordenades_utm_y>4607945.702</coordenades_utm_y>
-<coordenades_geo_x>2.300249335</coordenades_geo_x>
-<coordenades_geo_y>41.621104264</coordenades_geo_y>
-<estudis>EINF2C EPRI</estudis>
-<georefer_ncia>POINT (2.300249335 41.621104264)</georefer_ncia>
-</row>
-<row _id="row-srzs~2ye4_cekq" _uuid="00000000-0000-0000-BD83-7BEFDF1D3780" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-srzs~2ye4_cekq">
-<codi_centre>08021089</codi_centre>
-<denominaci_completa>Sant Antoni de Pàdua</denominaci_completa>
-<nom_naturalesa>Privat</nom_naturalesa>
-<nom_titularitat>Ordes i Congregacions Catòlics</nom_titularitat>
-<adre_a>av. Puig i Cadafalch, 80</adre_a>
-<codi_postal>08303</codi_postal>
-<nom_comarca>Maresme</nom_comarca>
-<codi_comarca>21</codi_comarca>
-<codi_municipi_5_digits>08121</codi_municipi_5_digits>
-<codi_municipi_6_digits>081213</codi_municipi_6_digits>
-<nom_municipi>Mataró</nom_municipi>
-<codi_districte_municipal>00</codi_districte_municipal>
-<coordenades_utm_x>452433.599</coordenades_utm_x>
-<coordenades_utm_y>4598894.985</coordenades_utm_y>
-<coordenades_geo_x>2.429735901</coordenades_geo_x>
-<coordenades_geo_y>41.540297266</coordenades_geo_y>
-<estudis>EINF2C EPRI ESO BATX CFPM CFPS TEGM</estudis>
-<georefer_ncia>POINT (2.429735901 41.540297266)</georefer_ncia>
-</row>
-<row _id="row-mgxi-e2s4.aqf6" _uuid="00000000-0000-0000-BE10-9F73F0D505D7" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-mgxi-e2s4.aqf6">
-<codi_centre>08039719</codi_centre>
-<denominaci_completa>Escola Les Planes</denominaci_completa>
-<nom_naturalesa>Públic</nom_naturalesa>
-<nom_titularitat>Departament d'Educació</nom_titularitat>
-<adre_a>c. Constitució, 2</adre_a>
-<codi_postal>08120</codi_postal>
-<nom_comarca>Vallès Oriental</nom_comarca>
-<codi_comarca>41</codi_comarca>
-<codi_municipi_5_digits>08105</codi_municipi_5_digits>
-<codi_municipi_6_digits>081056</codi_municipi_6_digits>
-<nom_municipi>La Llagosta</nom_municipi>
-<codi_districte_municipal>00</codi_districte_municipal>
-<coordenades_utm_x>432786.135</coordenades_utm_x>
-<coordenades_utm_y>4595750.578</coordenades_utm_y>
-<coordenades_geo_x>2.194556796</coordenades_geo_x>
-<coordenades_geo_y>41.510567853</coordenades_geo_y>
-<estudis>EINF2C EPRI</estudis>
-<georefer_ncia>POINT (2.194556796 41.510567853)</georefer_ncia>
-</row>
-<row _id="row-54v7-4y7s-r9qa" _uuid="00000000-0000-0000-77BB-35B97EE48BC7" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/_3u9c-b74b/row-54v7-4y7s-r9qa">
-<codi_centre>17004530</codi_centre>
-<denominaci_completa>Institut Santiago Sobrequés i Vidal</denominaci_completa>
-<nom_naturalesa>Públic</nom_naturalesa>
-<nom_titularitat>Departament d'Educació</nom_titularitat>
-<adre_a>c. Joan Reglà, 2-4</adre_a>
-<codi_postal>17003</codi_postal>
-<nom_comarca>Gironès</nom_comarca>
-<codi_comarca>20</codi_comarca>
-<codi_municipi_5_digits>17079</codi_municipi_5_digits>
-<codi_municipi_6_digits>170792</codi_municipi_6_digits>
-<nom_municipi>Girona</nom_municipi>
-<codi_districte_municipal>00</codi_districte_municipal>
-<coordenades_utm_x>485111.378</coordenades_utm_x>
-<coordenades_utm_y>4646633.133</coordenades_utm_y>
-<coordenades_geo_x>2.820304038</coordenades_geo_x>
-<coordenades_geo_y>41.971550517</coordenades_geo_y>
-<estudis>ESO BATX</estudis>
-<georefer_ncia>POINT (2.820304038 41.971550517)</georefer_ncia>
-</row>
-</row>
-</response>
+</row></response>
